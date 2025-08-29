@@ -8,18 +8,24 @@ SAS-Loss mitigates the over-compensation of missing frequencies, helping the net
 <hr />
 The code will coming soon!!!
 
+## Main FlowChart
+![flowchart](Imgs/framwork0.jpg)
+
+## Detail of WHT Generate Artifacts
+![WHT](Imgs/detail_wht_merge.jpg)
+
 ## Main Results
 
-### Results on UHD-LL and UHDLOL4K
-![fig2.png](Figures/Fig2.png)
-
-### Results on LOLv1 and LOLv2-Real
-![fig3.png](Figures/Fig3.png)
-
 ### Visual Results
-![fig4.png](Figures/Fig4.png)
-![fig5.png](Figures/Fig5.png)
-![fig6.png](Figures/Fig6.png)
+![fig2.png](Imgs/visual_v1_v2_result_0.jpg)
+![fig3.png](Imgs/unpairImg_01.jpg)
+![fig4.png](Imgs/unpairImg_02.jpg)
+![fig5.png](supplement/supp_compare_0.jpg)
+![fig6.png](supplement/supp_compare_1.png)
+![fig7.png](supplement/supp_unpair_FourLLIE.jpg)
+![fig8.png](supplement/supp_unpair_FourLLIE-0.jpg)
+![fig9.png](supplement/supp_unpair_snr.jpg)
+![fig10.png](supplement/supp_unpair_waveMamba.jpg)
 
 ## Citation
 ```
