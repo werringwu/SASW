@@ -34,10 +34,11 @@ The code will coming soon!!!
  author={Weilin Wu and Shifan Yang and Qizhao Lin and XingHong Chen and Kunping Yang and Jing Wang and Guannan Chen},
  booktitle={ACM Multimedia 2025},
  year= {2025},
- doi={https://10.1145/3746027.3758142}
+ doi={10.1145/3746027.3758142}
 }
 ```
 ## License
 
 ## Acknowledgement
-This project is based on [RetinexFormer](), [RetinexMamba](), [HWMNet](), [SNR-Net](), [WaveMamba]() and [FourLLIE]().
+## Acknowledgement
+This project is based on [RetinexFormer](https://github.com/caiyuanhao1998/Retinexformer), [RetinexMamba](https://github.com/YhuoyuH/RetinexMamba), [HWMNet](https://github.com/FanChiMao/HWMNet), [SNR-Net](https://github.com/dvlab-research/SNR-Aware-Low-Light-Enhance), [WaveMamba](https://github.com/AlexZou14/Wave-Mamba) and [FourLLIE](https://github.com/wangchx67/FourLLIE).
