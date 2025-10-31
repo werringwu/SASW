@@ -6,7 +6,8 @@ If you like this work, please give us a star ⭐ on GitHub.
 > **Abstract:** *Low-light image enhancement (LLIE) aims to restore low-light images to normal lighting conditions by improving their illumination and fine details, thereby facilitating efficient execution of downstream visual tasks. Traditional LLIE methods improve image quality but often introduce high-frequency artifacts, which are difficult to eliminate, hindering detail recovery and quality enhancement in LLIE.
 To solve this problem, we introduce a novel perspective: instead of traditional artifact suppression, sparsification-induced artifacts are repurposed as constructive regularization signals to guide detail recovery. By analyzing the impact of sparsified frequency components and their role in reconstruction artifacts, a detailed mathematical framework is presented. Specifically, we propose a novel loss function SASW-Loss which combining Sparse Artifact Similarity Loss (SAS-Loss) and Walsh-Hadamard Coefficient Loss (WHC-Loss).
 SAS-Loss mitigates the over-compensation of missing frequencies, helping the network recover structural details, while WHC-Loss optimizes the frequency-domain representation, restoring luminance, suppressing noise, and enhancing both structure and details. Extensive experiments show that our approach outperforms existing state-of-the-art methods, achieving superior performance in structural detail preservation and noise suppression. These results validate the effectiveness of our new perspective, which leverages sparsification artifacts to guide detail recovery, demonstrating significant improvements and robust performance across multiple models, and opening new avenues for future research.* 
-<hr /> https://link.growkudos.com/1envcl9hedc
+<hr /> <a href="https://link.growkudos.com/1envcl9hedc">https://link.growkudos.com/1envcl9hedc</a>
+
 ## Main FlowChart
 ![flowchart](Imgs/framwork0.jpg)
 
