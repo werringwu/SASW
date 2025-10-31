@@ -224,8 +224,9 @@ python3 Enhancement/test_from_dataset.py --opt Options/RetinexFormer_FiveK.yml -
 @inproceedings{wu2025sasw,
  title={A Novel Perspective on Low-Light Image Enhancement: Leveraging Artifact Regularization and Walsh-Hadamard Transform},
  author={Weilin Wu and Shifan Yang and Qizhao Lin and XingHong Chen and Kunping Yang and Jing Wang and Guannan Chen},
- booktitle={ACM Multimedia 2025},
+ booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
  year= {2025},
+ pages={12160--12169},
  doi={10.1145/3746027.3758142}
 }
 ```
