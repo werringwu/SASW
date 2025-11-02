@@ -219,6 +219,14 @@ python3 Enhancement/test_from_dataset.py --opt Options/RetinexFormer_SMID.yml --
 python3 Enhancement/test_from_dataset.py --opt Options/RetinexFormer_FiveK.yml --weights pretrained_weights/FiveK.pth --dataset FiveK
 ```
 
+## 4 Training with SASW
+```
+# LOL-v2-synthetic
+python3 basicsr/train.py --opt Options/RetinexFormer_LOL_v2_synthetic-SASW.yml
+
+Refer to the demo for LOL-v2-synthetic; for other cases, you only need to change the type in pixel_opt to "SASWLoss".
+```
+
 ## Citation
 ```
 @inproceedings{wu2025sasw,
